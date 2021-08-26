@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/node": "^16.7.2"
+  },
+  "dependencies": {
+    "skyutil": "^0.0.5"
+  }
+}
